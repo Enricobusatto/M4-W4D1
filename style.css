@@ -1,0 +1,12 @@
+body{
+        background-color: #d5e8f8!important;
+}
+.card-img-top.rounded.img-fluid{
+    height: 300px!important;
+    object-fit: cover!important;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
