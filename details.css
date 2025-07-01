@@ -1,6 +1,7 @@
 #productImage {
     width: 500px;
-    height: auto;
+    height: 500px;
+    object-fit: cover;
 }
 
 p {
